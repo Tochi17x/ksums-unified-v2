@@ -1,0 +1,21 @@
+# Nix
+result
+result-*
+.nix-gc.log
+
+# direnv
+.direnv
+
+# macOS
+.DS_Store
+
+# VSCode
+.vscode
+
+# Local secrets
+*.env
+secrets.nix
+
+# Build artifacts
+node_modules
+dist
